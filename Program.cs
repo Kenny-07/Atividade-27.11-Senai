@@ -9,7 +9,7 @@ namespace Atividade_27._11_Senai
             int escolha;
             int contador = 0;
             string resposta;
-            string[] promocao = new string [2];
+            bool[] promocao = new bool [2];
             string[] produto = new string [2];
             float[] preco = new float [2];
             
@@ -42,9 +42,9 @@ namespace Atividade_27._11_Senai
                             Console.WriteLine($"Digite o preço do {contador+1}º produto");
                             preco[contador] = float.Parse(Console.ReadLine());
 
-                            Console.WriteLine($"Digite se o {contador+1}º produto está em promoção Esta/Não esta");
-                            promocao[contador] = Console.ReadLine();
-
+                            Console.WriteLine($"Digite se o {contador+1}º produto está em promoção True = Sim / False = Não");
+                            promocao[contador] = bool.Parse(Console.ReadLine());
+                            // EfetuarPromocao (promocao[contador]);
                             contador++;
 
                             }else
@@ -64,7 +64,10 @@ namespace Atividade_27._11_Senai
                         Console.WriteLine("Lista dos produtos.");
                         for (var i = 0; i < contador; i++)
                         {
-                            Console.WriteLine($"Produtos : {produto[i]} -- Preço : {preco[i]} reais -- Este produto {promocao[i]} em promoção");
+                            Console.WriteLine($"Produtos : {produto[i]}");
+                            Console.WriteLine($"Preço : {preco[i]}");
+                            EfetuarPromocao (promocao[i]);
+                            Console.WriteLine($"-----------------------------");
                         }
                         break;
 
@@ -77,11 +80,11 @@ namespace Atividade_27._11_Senai
             } 
         } while (escolha != 3); 
 
-        bool EfetuarPromocao(string promocao){
-            if (promocao == "S"){
-                return true;
+        void EfetuarPromocao(bool promocao){
+            if (promocao == true){
+                Console.WriteLine("Esta na promoção");
             }else{
-                return false;
+                Console.WriteLine("Não esta na promoção");
             }
         }
               
