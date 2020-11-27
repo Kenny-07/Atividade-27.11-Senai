@@ -1,0 +1,13 @@
+C:\Users\dev\Desktop\Atividades Alan 27.11\Atividade-27.11-Senai\bin\Debug\netcoreapp3.1\Atividade-27.11-Senai.exe
+C:\Users\dev\Desktop\Atividades Alan 27.11\Atividade-27.11-Senai\bin\Debug\netcoreapp3.1\Atividade-27.11-Senai.deps.json
+C:\Users\dev\Desktop\Atividades Alan 27.11\Atividade-27.11-Senai\bin\Debug\netcoreapp3.1\Atividade-27.11-Senai.runtimeconfig.json
+C:\Users\dev\Desktop\Atividades Alan 27.11\Atividade-27.11-Senai\bin\Debug\netcoreapp3.1\Atividade-27.11-Senai.runtimeconfig.dev.json
+C:\Users\dev\Desktop\Atividades Alan 27.11\Atividade-27.11-Senai\bin\Debug\netcoreapp3.1\Atividade-27.11-Senai.dll
+C:\Users\dev\Desktop\Atividades Alan 27.11\Atividade-27.11-Senai\bin\Debug\netcoreapp3.1\Atividade-27.11-Senai.pdb
+C:\Users\dev\Desktop\Atividades Alan 27.11\Atividade-27.11-Senai\obj\Debug\netcoreapp3.1\Atividade-27.11-Senai.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\Atividades Alan 27.11\Atividade-27.11-Senai\obj\Debug\netcoreapp3.1\Atividade-27.11-Senai.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\Atividades Alan 27.11\Atividade-27.11-Senai\obj\Debug\netcoreapp3.1\Atividade-27.11-Senai.AssemblyInfo.cs
+C:\Users\dev\Desktop\Atividades Alan 27.11\Atividade-27.11-Senai\obj\Debug\netcoreapp3.1\Atividade-27.11-Senai.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\Atividades Alan 27.11\Atividade-27.11-Senai\obj\Debug\netcoreapp3.1\Atividade-27.11-Senai.dll
+C:\Users\dev\Desktop\Atividades Alan 27.11\Atividade-27.11-Senai\obj\Debug\netcoreapp3.1\Atividade-27.11-Senai.pdb
+C:\Users\dev\Desktop\Atividades Alan 27.11\Atividade-27.11-Senai\obj\Debug\netcoreapp3.1\Atividade-27.11-Senai.genruntimeconfig.cache

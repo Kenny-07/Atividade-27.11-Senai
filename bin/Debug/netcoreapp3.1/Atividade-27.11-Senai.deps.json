@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Atividade-27.11-Senai/1.0.0": {
+        "runtime": {
+          "Atividade-27.11-Senai.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Atividade-27.11-Senai/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
